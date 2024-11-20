@@ -95,8 +95,6 @@ function reName(catalogue) {
         });
         rl.close();
     });
-
-
 }
 
 // 已覆盖例子
